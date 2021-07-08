@@ -4,6 +4,7 @@
 
 ### github repo: https://gopika2514.github.io/Tech-blog/
 ### heroku : https://tech-blog-gk.herokuapp.com/
+### youtube-link: https://youtu.be/nri8S8z812E
 
 
 # Your Task
